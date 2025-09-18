@@ -9,7 +9,7 @@
 
 </div>
 
-[license-badge]: https://img.shields.io/badge/License-MIT-green
+[license-badge]: https://img.shields.io/badge/License-Apache%202.0-green
 [license-redirect]: https://github.com/datonescvr1ae/valerian-framework/blob/main/LICENSE
 
 [release-badge]: https://img.shields.io/badge/Release-Null-red
