@@ -1,1 +1,3 @@
-# valerian-framework
+<h1 align="center">
+  <sup>Valerian Framework</sup>
+</h1>
